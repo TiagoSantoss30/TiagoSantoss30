@@ -1,8 +1,8 @@
 ##  👋🏼Olá, prazer em tê-lo(a) aqui! Me chamo Tiago Pereira :)
 
 - 🎓 Recentemente estou cursando o terceiro semestre de Ciência da computação.
-- 💡 Tenho conhecimento nessas seguintes linguagens: Python, Java, HTML5 & CSS3.
-- 🖥️ Estudando atualmente: JavaScript.
+- 💡 Tenho conhecimento em: HTML5 & CSS3, React e JavaScript.
+- 🖥️ Estudando atualmente: Java.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSantoss30&show_icons=true&theme=dark)
 ##
