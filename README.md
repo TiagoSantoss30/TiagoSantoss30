@@ -1,6 +1,6 @@
 ##  👋🏼 Olá, prazer em tê-lo(a) aqui! Me chamo Tiago Pereira :)
 
-### 👨🏽‍🎓 Minha Parte Academica 
+### 👨🏽‍🎓 Minha Parte Acadêmica 
 Faço Graduação Na Universidade Salvador (UNIFACS), Onde Atualmente Estou Cursando O Terceiro Semestre De Ciência Da Computação. 👨🏽‍💻
 
 Durante o processo de aprendizado (até agora), adquiri conhecimento em:
